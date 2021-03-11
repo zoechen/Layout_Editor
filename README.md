@@ -1,5 +1,7 @@
 # layout-editor
 
+
+
 ## Project setup
 ```
 yarn install
@@ -20,5 +22,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 參考資源
+[Konva](https://konvajs.org/)
